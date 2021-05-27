@@ -1,0 +1,9 @@
+C:\Users\qubad\Desktop\AquariumGallery\AquariumGalleryLib\obj\Debug\netcoreapp3.1\AquariumGalleryLib.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\AquariumGallery\AquariumGalleryLib\obj\Debug\netcoreapp3.1\AquariumGalleryLib.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\AquariumGallery\AquariumGalleryLib\obj\Debug\netcoreapp3.1\AquariumGalleryLib.AssemblyInfo.cs
+C:\Users\qubad\Desktop\AquariumGallery\AquariumGalleryLib\obj\Debug\netcoreapp3.1\AquariumGalleryLib.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\AquariumGallery\AquariumGalleryLib\bin\Debug\netcoreapp3.1\AquariumGalleryLib.deps.json
+C:\Users\qubad\Desktop\AquariumGallery\AquariumGalleryLib\bin\Debug\netcoreapp3.1\AquariumGalleryLib.dll
+C:\Users\qubad\Desktop\AquariumGallery\AquariumGalleryLib\bin\Debug\netcoreapp3.1\AquariumGalleryLib.pdb
+C:\Users\qubad\Desktop\AquariumGallery\AquariumGalleryLib\obj\Debug\netcoreapp3.1\AquariumGalleryLib.dll
+C:\Users\qubad\Desktop\AquariumGallery\AquariumGalleryLib\obj\Debug\netcoreapp3.1\AquariumGalleryLib.pdb
